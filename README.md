@@ -31,7 +31,7 @@ I build AI systems that run in production: LLM agents, RAG pipelines and end-to-
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 [FANA — AI lead qualification](https://github.com/MahmoudElnahal/fana)
+### 🏠 [FANA — AI lead qualification](https://github.com/MahmoudElnahal/fana-ai-lead-qualification)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM%20agent-8b5cf6?style=flat-square)
@@ -41,7 +41,7 @@ AI agent that qualifies real-estate leads in Saudi Arabic from Telegram, WhatsAp
 </td>
 <td width="50%" valign="top">
 
-### 📿 [Tashih AI — hadith verification](https://github.com/MahmoudElnahal/Tashih_AI)
+### 📿 [Tashih AI — hadith verification](https://github.com/MahmoudElnahal/tashih-ai)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
@@ -53,7 +53,7 @@ Returns a hadith's grading, who graded it and the source. The verdict comes from
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ [Egyptian Labor Law chatbot](https://github.com/MahmoudElnahal/labor-law-chatbot)
+### ⚖️ [Egyptian Labor Law chatbot](https://github.com/MahmoudElnahal/egyptian-labor-law-chatbot)
 ![RAG](https://img.shields.io/badge/RAG-f472b6?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -75,7 +75,7 @@ Two agents on two platforms chained end to end: n8n turns farm sensor data into 
 <tr>
 <td width="50%" valign="top">
 
-### 📄 [ATS — LLM resume matcher](https://github.com/MahmoudElnahal/ATS)
+### 📄 [ATS — LLM resume matcher](https://github.com/MahmoudElnahal/ats-resume-matcher)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -95,6 +95,15 @@ Scrapes decision-maker data, classifies leads with AI, and runs tracked email se
 </td>
 </tr>
 </table>
+
+### More projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🧭 [**UniStep Strategy Platform**](https://github.com/MahmoudElnahal/unistep-strategy-platform) | Multi-agent strategic diagnosis for non-profits — PESTLE, Porter and benchmarking agents with source-cited confidence levels | FastAPI · OpenAI · Arabic OCR |
+| 🎙️ [**Smart Legal Advisor**](https://github.com/MahmoudElnahal/smart-legal-advisor) | Arabic chat and voice-call assistant for labor law with an in-browser hybrid RAG engine | React · TypeScript · Gemini |
+| 📑 [**Rashad Engine**](https://github.com/MahmoudElnahal/rashad-engine) | Q&A over Arabic tenders and RFPs with answers cited by file and page | LangChain · FAISS · Streamlit |
+| 📝 [**CV-AI Builder**](https://github.com/MahmoudElnahal/cv-ai-builder) | Resume builder and optimizer with ATS scoring and PDF/DOCX export | Streamlit · OpenAI |
 
 ## 🛠️ Tech stack
 
