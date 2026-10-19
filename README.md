@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elnahal)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelnahal2002@gmail.com)
 
-![Open to work](https://img.shields.io/badge/Open%20to-AI%20engineering%20roles-34d399?style=flat-square)
+![Currently](https://img.shields.io/badge/Currently-AI%20Marketing%20Automation%20%40%20Fana-34d399?style=flat-square)
 ![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-remote%20friendly-818cf8?style=flat-square)
 
 </div>
@@ -142,9 +142,10 @@ Scrapes decision-maker data, classifies leads with AI, and runs tracked email se
 
 | | Role | Organization |
 |---|---|---|
+| 🟢 **Oct 2026 – Present** | AI & Marketing Automation (Full-time) | Fana |
+| 🟢 **2026 – Present** | AI Automation Instructor · AI Marketing Automation | DEPI |
 | 🟢 **Sep 2026 – Present** | AI & Automation Instructor | Samsung Innovation Campus |
 | **Aug – Sep 2026** | RPA Developer Intern (UiPath) | Orange Digital Center Egypt |
-| **2026** | AI Automation Engineer (Freelance) | FANA Ltd · Saudi Arabia |
 | **Sep 2025 – Sep 2026** | AI & Automation Engineer | UniStep · Saudi Arabia |
 | **Jul 2025 – Feb 2026** | AI Engineer Specialist | Success Technology LLC · Oman |
 | **Jan – Jun 2025** | Performance Analytics Specialist | Andalusia Group for Medical Services |
@@ -165,7 +166,7 @@ Scrapes decision-maker data, classifies leads with AI, and runs tracked email se
 
 ### 📫 Let's talk
 
-Open to AI engineering, GenAI and automation roles — remote or Cairo.
+Open to AI marketing automation workshops, training and collaborations — remote or Cairo. Instructor profile: [mahmoudelnahal.github.io/instructor](https://mahmoudelnahal.github.io/instructor/)
 
 **[mahmoudelnahal.github.io](https://mahmoudelnahal.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/mahmoud-elnahal)** · **[mahmoudelnahal2002@gmail.com](mailto:mahmoudelnahal2002@gmail.com)**
 
