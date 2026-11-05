@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelnahal2002@gmail.com)
 
 ![Currently](https://img.shields.io/badge/Currently-AI%20Marketing%20Automation%20%40%20Fana-34d399?style=flat-square)
-![Location](https://img.shields.io/badge/Cairo%2C%20Egypt-remote%20friendly-818cf8?style=flat-square)
+![Location](https://img.shields.io/badge/Dubai%2C%20UAE-remote%20friendly-818cf8?style=flat-square)
 
 </div>
 
@@ -166,7 +166,7 @@ Scrapes decision-maker data, classifies leads with AI, and runs tracked email se
 
 ### 📫 Let's talk
 
-Open to AI marketing automation workshops, training and collaborations — remote or Cairo. Instructor profile: [mahmoudelnahal.github.io/instructor](https://mahmoudelnahal.github.io/instructor/)
+Open to AI marketing automation workshops, training and collaborations — remote or Dubai. Instructor profile: [mahmoudelnahal.github.io/instructor](https://mahmoudelnahal.github.io/instructor/)
 
 **[mahmoudelnahal.github.io](https://mahmoudelnahal.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/mahmoud-elnahal)** · **[mahmoudelnahal2002@gmail.com](mailto:mahmoudelnahal2002@gmail.com)**
 
