@@ -7,7 +7,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mahmoudelnahal.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahmoudelnahal.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elnahal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elnahal-29772a22a/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelnahal2002@gmail.com)
 
 ![Currently](https://img.shields.io/badge/Currently-AI%20Marketing%20Automation%20%40%20Fana-34d399?style=flat-square)
@@ -168,7 +168,7 @@ Scrapes decision-maker data, classifies leads with AI, and runs tracked email se
 
 Open to AI marketing automation workshops, training and collaborations — remote or Dubai. Instructor profile: [mahmoudelnahal.github.io/instructor](https://mahmoudelnahal.github.io/instructor/)
 
-**[mahmoudelnahal.github.io](https://mahmoudelnahal.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/mahmoud-elnahal)** · **[mahmoudelnahal2002@gmail.com](mailto:mahmoudelnahal2002@gmail.com)**
+**[mahmoudelnahal.github.io](https://mahmoudelnahal.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/mahmoud-elnahal-29772a22a/)** · **[mahmoudelnahal2002@gmail.com](mailto:mahmoudelnahal2002@gmail.com)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:818cf8,100:22d3ee&height=100&section=footer" alt="" width="100%">
 
