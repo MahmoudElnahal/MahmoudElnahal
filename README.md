@@ -7,10 +7,12 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mahmoudelnahal.github.io-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahmoudelnahal.github.io/)
+[![Tech portfolio](https://img.shields.io/badge/Tech%20portfolio-Ask%20my%20AI-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)](https://mahmoudelnahal.github.io/tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elnahal-29772a22a/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelnahal2002@gmail.com)
 
-![Currently](https://img.shields.io/badge/Currently-AI%20Marketing%20Automation%20%40%20Fana-34d399?style=flat-square)
+![Currently](https://img.shields.io/badge/Currently-AI%20%26%20Automation%20Instructor%20%40%20Learn%20It-34d399?style=flat-square)
+![Open to](https://img.shields.io/badge/Open%20to-AI%20Engineering%20roles-22d3ee?style=flat-square)
 ![Location](https://img.shields.io/badge/Dubai%2C%20UAE-remote%20friendly-818cf8?style=flat-square)
 
 </div>
@@ -22,7 +24,7 @@ I build AI systems that run in production: LLM agents, RAG pipelines and end-to-
 - 🌍 Delivered for clients in **Egypt, Oman, Saudi Arabia and the UAE**
 - 🏛️ Led the GenAI **national ATS for the Ministry of Labor of Oman** — recruitment efficiency up **40%**
 - ⚙️ Built an email-marketing automation processing **150+ leads/day** with zero manual work
-- 🎓 **AI & Automation Instructor** at Samsung Innovation Campus — 150+ students trained so far
+- 🎓 **AI & Automation Instructor** at Learn It, training professionals in Saudi Arabia & the UAE — 200+ learners trained so far
 - 📜 B.Sc. Artificial Intelligence, Kafr El-Sheikh University (2024, GPA 3.51/4.0)
 
 ## 🚀 Featured projects
@@ -142,9 +144,10 @@ Scrapes decision-maker data, classifies leads with AI, and runs tracked email se
 
 | | Role | Organization |
 |---|---|---|
-| 🟢 **Oct 2026 – Present** | AI & Marketing Automation (Full-time) | Fana |
-| 🟢 **2026 – Present** | AI Automation Instructor · AI Marketing Automation | DEPI |
-| 🟢 **Sep 2026 – Present** | AI & Automation Instructor | Samsung Innovation Campus |
+| 🟢 **Nov 2026 – Present** | AI & Automation Instructor (Part-time) · KSA & UAE | Learn It |
+| **Oct – Nov 2026** | Freelance AI & Automation Engineer | Client: Fana |
+| **Sep – Oct 2026** | AI Automation Instructor · AI Marketing Automation | DEPI |
+| **Sep – Oct 2026** | AI & Automation Instructor | Samsung Innovation Campus |
 | **Aug – Sep 2026** | RPA Developer Intern (UiPath) | Orange Digital Center Egypt |
 | **Sep 2025 – Sep 2026** | AI & Automation Engineer | UniStep · Saudi Arabia |
 | **Jul 2025 – Feb 2026** | AI Engineer Specialist | Success Technology LLC · Oman |
