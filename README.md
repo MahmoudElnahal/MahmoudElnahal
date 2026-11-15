@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elnahal-29772a22a/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudelnahal2002@gmail.com)
 
-![Currently](https://img.shields.io/badge/Currently-AI%20%26%20Automation%20Instructor%20%40%20Learn%20It-34d399?style=flat-square)
+![Currently](https://img.shields.io/badge/Currently-AI%20Automation%20Instructor%20%40%20Learn%20It%20%26%20DataBell-34d399?style=flat-square)
 ![Open to](https://img.shields.io/badge/Open%20to-AI%20Engineering%20roles-22d3ee?style=flat-square)
 ![Location](https://img.shields.io/badge/Dubai%2C%20UAE-remote%20friendly-818cf8?style=flat-square)
 
@@ -24,7 +24,7 @@ I build AI systems that run in production: LLM agents, RAG pipelines and end-to-
 - 🌍 Delivered for clients in **Egypt, Oman, Saudi Arabia and the UAE**
 - 🏛️ Led the GenAI **national ATS for the Ministry of Labor of Oman** — recruitment efficiency up **40%**
 - ⚙️ Built an email-marketing automation processing **150+ leads/day** with zero manual work
-- 🎓 **AI & Automation Instructor** at Learn It, training professionals in Saudi Arabia & the UAE — 200+ learners trained so far
+- 🎓 **AI Automation Instructor** at Learn It (training professionals in Saudi Arabia & the UAE) and DataBell — 200+ learners trained so far
 - 📜 B.Sc. Artificial Intelligence, Kafr El-Sheikh University (2024, GPA 3.51/4.0)
 
 ## 🚀 Featured projects
@@ -144,7 +144,8 @@ Scrapes decision-maker data, classifies leads with AI, and runs tracked email se
 
 | | Role | Organization |
 |---|---|---|
-| 🟢 **Nov 2026 – Present** | AI & Automation Instructor (Part-time) · KSA & UAE | Learn It |
+| 🟢 **Nov 2026 – Present** | AI Automation Instructor (Part-time) · KSA & UAE | Learn It |
+| 🟢 **Nov 2026 – Present** | AI Automation Instructor | DataBell |
 | **Oct – Nov 2026** | Freelance AI & Automation Engineer | Client: Fana |
 | **Sep – Oct 2026** | AI Automation Instructor · AI Marketing Automation | DEPI |
 | **Sep – Oct 2026** | AI & Automation Instructor | Samsung Innovation Campus |
